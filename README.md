@@ -26,13 +26,3 @@ This repository uses real Formula One telemetry and session data to build and an
 See the main folders above for scripts and notebooks separation. All source code under `src/`, with Jupyter notebooks under `notebooks/`.
 
 ---
-
-## 4. Next Steps: Initial GitHub Commit
-
-After creating the above directories and placeholders:
-
-- `git init`
-- `git add .`
-- `git commit -m "Initial project structure for F1 advanced lap time prediction"`
-
-This setup will position your project for robust machine learning development and version control. Further steps will focus on scraping and fetching real F1 session data, engineering predictive features, and building your first regression models.
